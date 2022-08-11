@@ -1,1 +1,6 @@
-# Responsive-Sidebar-Dashboard_Using-HML-CSS-JS
+# Responsive Sidebar Dashboard
+
+## Tech
+- HTML
+- CSS
+- JS
